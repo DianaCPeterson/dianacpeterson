@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Diana! 👋
+
+- 🌱 I’m currently learning Python
+- 💬 Ask me about: React, Rails & AI
+- 📫 How to reach me: dpeter10@gmail.com
+- ⚡ Fun fact: I used to writer for television 
+
+Link to [LinkedIn](https://www.linkedin.com/in/dianacpeterson)
 
 <!--
 **DianaCPeterson/dianacpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
