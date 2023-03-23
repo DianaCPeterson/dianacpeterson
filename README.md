@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dpeter10@gmail.com**
 
-- ⚡ Fun fact **I've taken a #photooftheday for the last 1730 days (and counting)**
+- ⚡ Fun fact **Each day I document New York life in a photography project that has spanned over 1,730 days (and counting)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
