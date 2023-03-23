@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diana!</h1>
-<h3 align="center">Software Engineer in NYC</h3>
+<h3 align="center">Software Engineer | Flatiron Grad | Creative </h3>
 
 - 🌱 I’m currently learning **Python & React Native**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dpeter10@gmail.com**
 
-- ⚡ Fun fact **I've written for TV shows**
+- ⚡ Fun fact **I've taken a #photooftheday for the last 1730 days (and counting)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
