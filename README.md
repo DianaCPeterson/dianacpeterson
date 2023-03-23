@@ -9,7 +9,7 @@ Link to [LinkedIn](https://www.linkedin.com/in/dianacpeterson)
 
 <!--
 **DianaCPeterson/dianacpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://giphy.com/embed/79DmNoMPreZ5s52BOx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/79DmNoMPreZ5s52BOx">via GIPHY</a></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<iframe src="https://giphy.com/embed/79DmNoMPreZ5s52BOx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/79DmNoMPreZ5s52BOx">via GIPHY</a></p>
