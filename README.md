@@ -20,3 +20,4 @@
 <h4 align="left">Projects:</h4>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA2MTJjMmRmNDA2MmM5Mzc4M2U2MWI3YzEwMjFjZWRiZTgyMjE5ZCZjdD1n/79DmNoMPreZ5s52BOx/giphy.gif" alt=
 "gif"/>
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA2MTJjMmRmNDA2MmM5Mzc4M2U2MWI3YzEwMjFjZWRiZTgyMjE5ZCZjdD1n/79DmNoMPreZ5s52BOx/giphy.gif)
